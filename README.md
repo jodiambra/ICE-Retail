@@ -9,4 +9,5 @@ Overall, we can look at our data to make predictions for 2017. First, inferences
 
 #
 Run notebook to see interactive visualizations.
+#
 Open figures to see static visualizations. 
