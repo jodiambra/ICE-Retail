@@ -1,4 +1,6 @@
 # ICE-Retail
+![image](https://user-images.githubusercontent.com/115895428/216845981-e5e7f689-2b2a-44fe-bb7a-5adfbce50535.png)
+
 
 ## Skills Demonstrated 
     Pandas
